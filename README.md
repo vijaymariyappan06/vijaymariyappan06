@@ -10,7 +10,7 @@
 - Visualized key metrices such as monthly sales,and Product performance.  
 - Tools: MY SQL.    
 
-🔹 [*Retail Sales Analysis*](https://github.com/Mathan-2002/Retial-sales-Analysis-project-My-SQL-) 
-- Performed data cleaning and exploratory analysis on retail sales data.  
-- Built visualizations to identify sales trends and customer buying patterns.  
-- Tools: My SQL.
+🔹 [*Retail Sales Analysis*](https://github.com/vijaymariyappan06/Excel_prj) 
+- Performed data cleaning and exploratory analysis on retail sales data Using Excel.  
+- Analyze sales Trends,track inventory and generate performance report roe visualize using formulas and charts.  
+- Tools: MICROSOFT EXCEL.
