@@ -2,13 +2,13 @@
 
 🔹 [*HR Decision Making Analysis*](https://github.com/vijaymariyappan06/powerbi_prj)   
 - Conducted analysis of HR Decision Making data in *Powerbi*.  
-- USing Dax functions and charts to identify ID,name,location and hiring trends.  
-- Tools: Power Bi.  
+- Using Dax functions and charts to identify ID,name,location and hiring trends.  
+- Tools: POWER BI.  
 
-🔹 [*Order Performance Dashboard*](https://github.com/Mathan-2002/order-performance-dashboard)
-- Designed an *interactive Power BI dashboard* to track order performance.  
-- Visualized KPIs such as total sales, order status, customer trends, and delivery performance.  
-- Tools: Power BI.    
+🔹 [*Sales Data Analysis*](https://github.com/vijaymariyappan06/sql_preprocess_powerbi)
+- Preprocessed raw data using Sql,including date formating and aggrigations connected to Power BI.  
+- Visualized key metrices such as monthly sales,and Product performance.  
+- Tools: MY SQL.    
 
 🔹 [*Retail Sales Analysis*](https://github.com/Mathan-2002/Retial-sales-Analysis-project-My-SQL-) 
 - Performed data cleaning and exploratory analysis on retail sales data.  
