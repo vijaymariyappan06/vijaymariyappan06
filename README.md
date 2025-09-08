@@ -31,3 +31,5 @@
 - Performed data cleaning and exploratory analysis on retail sales data Using Excel.  
 - Analyze sales Trends,track inventory and generate performance report roe visualize using formulas and charts.  
 - Tools: MICROSOFT EXCEL.
+
+🔹 [*Retail Sales Analysis*]() 
