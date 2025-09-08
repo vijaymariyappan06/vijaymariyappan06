@@ -32,4 +32,8 @@
 - Analyze sales Trends,track inventory and generate performance report roe visualize using formulas and charts.  
 - Tools: MICROSOFT EXCEL.
 
-🔹 [*Retail Sales Analysis*]() 
+🔹 [*Bank Account Management System using Python:*](https://github.com/vijaymariyappan06/python_prj) 
+- The Bank Account Management System is a Python-based console application designed to simulate real-world banking operations using Object-Oriented Programming (OOP) concepts.
+-  The system allows users to manage multiple bank accounts, perform transactions, and securely handle account information. 
+- Tools: PYTHON[IDLE 3.13].
+
